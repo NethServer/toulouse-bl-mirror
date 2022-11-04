@@ -1,4 +1,4 @@
-[![Update Blacklists](https://github.com/francio87/ufdbguard-bl-mirror/actions/workflows/blacklists-update.yml/badge.svg)](https://github.com/francio87/ufdbguard-bl-mirror/actions/workflows/blacklists-update.yml)
+[![Toulouse Blacklist Mirror](https://github.com/NethServer/toulouse-bl-mirror/actions/workflows/toulouse-bl-mirror.yml/badge.svg)](https://github.com/NethServer/toulouse-bl-mirror/actions/workflows/toulouse-bl-mirror.yml)
 
 # :flying_saucer: Toulouse Blacklist Mirror :flying_saucer:
 
